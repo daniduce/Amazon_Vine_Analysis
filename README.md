@@ -8,8 +8,15 @@
 
 ## Results:
 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+* How many Vine reviews and non-Vine reviews were there?
+For the question of how many reviews, I was not able to come to a final sum. 
+
+* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+I had the same issues trying to find the total number of 5 star reviews. 
+
+* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+Due to not being able to find the total number or reviews and 5 star reviews, my code would not work to find the percentage. 
+
 Summary:
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+While I was not able to find the results to the questions above, looking at the data I was able to pull through, I do not think there was positivity bias for the review in the Vine Program. One additional analysis that I would complete with the dataset is to pull through the reviews by customer id to see which customers left which type of review. This would also help take away any biased from certain users. 
